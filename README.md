@@ -141,12 +141,13 @@ A mitigação do caos global exige uma abordagem coordenada e integrada entre di
 
 **Epílogo: O Futuro da Humanidade**
 
-O século XXI é uma encruzilhada para a humanidade. As crises analisadas neste estudo demonstram que a estabilidade global depende da capacidade das nações em superar desafios de forma cooperativa. Se falharmos em agir, o "Jogo do Caos" poderá se intensificar, comprometendo as próximas gerações. No entanto, se adotarmos estratégias eficazes, poderemos transformar as adversidades em oportunidades para um mundo mais justo e equilibrado.
+O século XXI é uma encruzilhada para a humanidade. As crises analisadas neste estudo demonstram que a estabilidade global depende da capacidade das nações em superar desafios de forma cooperativa. Se falharmos em agir, o "Jogo do Caos" poderá se intensificar, compromet5endo as próximas gerações. No entanto, se adotarmos estratégias eficazes, poderemos transformar as adversidades em oportunidades para um mundo mais justo e equilibrado.
 
 Em um cenário de Game of Caos, os problemas e desafios são complexos, altamente paralelizados, interconectados, emaranhados.
 
-estruturamos um ecossistema de projetos que integra um complexo multiuso (incluindo fazenda vertical em torre solar) e o projeto Lux Complete, um ecossistema de redes ópticas para:
+estruturamos um ecossistema de projetos que integra um complexo multiuso (incluindo fazenda vertical em torre solar) e o projeto Lux Complete, um ecossistema de redes ópticas, medida contra ciclica a, por exemplo:
 
+{
 Produzir energia no reservatorio de Ilha Soleira, numa crise hidrica e com nivel util de 56%, a ONS decreta não produzir energia (continuar abrindo comportas) para não afetar a cabotagem agro.
 A mesma ONS, para proteger o arrozal a juzante da bacia Jacui, decretou 
 um nivel de espera anti enchentes ainda mais radical. 88,7, (oitententa e oito virgula sete) do volume util, ou seja operar a menos de 20% do volume util.
@@ -154,6 +155,7 @@ Esta medida ainda esta vigente, contudo, em 28 de abril de 2024 estava acima de 
 o resto eh história triste, exemplificando o caos politico, de liderança e engenharia.
 
 Ao se decretar a perda da vocação natural do maior componente da matriz eletrica, berço da lição de casa ja feita - transição energetica - eh fundamental - numa transição dentro da transição energetica (desafios emaranhados) implantar a transposição inter bacias, para contornar a ciclotimia de chuvas, bem conhecida.
+}
 
 # Ecossistema de Soluções Paralelizadas, ESP:
 Transmissão de energia (fótons): Alternativa eficiente à transmissão elétrica tradicional, minimizando perdas energéticas.
