@@ -197,13 +197,13 @@ Fase 3: Interface com o mercado, universidades e centros de pesquisa para valida
 Fase 4: Implementação e comercialização da tecnologia em projetos piloto e em escala comercial.
 
 Links de Referência:
-
-Game of Caos: https://github.com/scoobiii/gameofcaos
-Complexo multiuso: https://participemais.prefeitura.sp.gov.br/legislation/processes/203/proposals/3420
-Lux Complete: https://github.com/scoobiii/lux-complete/
-Fab Lab Galeria Olido: https://www.fablablivresp.prefeitura.sp.gov.br/projetos/sustentabilidade/lux-complete
-Etanol H2: https://github.com/scoobiii/etanolH2
-ET-CCNFT: https://github.com/scoobiii/ET-CCNFT
+  
+  Game of Caos: https://github.com/scoobiii/gameofcaos
+  Complexo multiuso: https://participemais.prefeitura.sp.gov.br/legislation/processes/203/proposals/3420
+  Lux Complete: https://github.com/scoobiii/lux-complete/
+  Fab Lab Galeria Olido: https://www.fablablivresp.prefeitura.sp.gov.br/projetos/sustentabilidade/lux-complete
+  Etanol H2: https://github.com/scoobiii/etanolH2
+  ET-CCNFT: https://github.com/scoobiii/ET-CCNFT
 
 O destino da humanidade está em nossas mãos. A escolha é agora.
 
